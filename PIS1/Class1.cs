@@ -8,5 +8,6 @@ namespace PIS1
 {
     internal class Class1
     {
+        int i = 1;
     }
 }
